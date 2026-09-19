@@ -1,6 +1,6 @@
 {
   "name": "@mesimmo-dev/latent-scalar-map",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minimal scalar transformation utility for deterministic numerical pipelines.",
   "type": "module",
   "main": "index.js",
